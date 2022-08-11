@@ -1,0 +1,15 @@
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\bin\Debug\net6.0\zadasha3.exe
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\bin\Debug\net6.0\zadasha3.deps.json
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\bin\Debug\net6.0\zadasha3.runtimeconfig.json
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\bin\Debug\net6.0\zadasha3.dll
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\bin\Debug\net6.0\zadasha3.pdb
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.csproj.AssemblyReference.cache
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.AssemblyInfoInputs.cache
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.AssemblyInfo.cs
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.csproj.CoreCompileInputs.cache
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.dll
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\refint\zadasha3.dll
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.pdb
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\zadasha3.genruntimeconfig.cache
+C:\Users\yul01\OneDrive\Документы\учеба\ДЗ\Seminar7_zadashi\Zadashi_seminar7\zadasha3\obj\Debug\net6.0\ref\zadasha3.dll
